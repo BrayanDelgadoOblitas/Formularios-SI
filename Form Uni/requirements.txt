@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+numpy
+tensorflow
+joblib
+openpyxl
+matplotlib
+plotly
+seaborn
+statsmodels
+psutil
