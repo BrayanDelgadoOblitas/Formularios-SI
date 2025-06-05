@@ -22,7 +22,6 @@ FORMULARIO_UNIVARIABLE/
 ## 🧠 Requisitos Previos
 
 - **✔** Python 3.10.10 → [Descargar](https://www.python.org/downloads/windows/)
-- **✔** Node.js y npm → [Descargar](https://nodejs.org/)
 
 ---
 
